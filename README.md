@@ -1,16 +1,4 @@
 ## Olá sou o Carlos Henrique
-  <img src="https://komarev.com/ghpvc/?username=HenriqueDossantos&color=blue" alt="HenriqueDossantos"/> 
- <div>
-  <a href="https://github.com/HenriqueDossantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueDossantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueDossantos&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Henrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Henrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Henrique-yoda" src="https://i.picasion.com/pic91/01774b245e3929d10da6d27093d84e2d.gif">
-</div>
   
 ##
   
